@@ -28,10 +28,21 @@
       transition: background-color 0.2s;
     }
 
+    button:active,
     button:hover {
       background-color: #65b8ff;
     }
   </style>
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-LS27293C67"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-LS27293C67');
+  </script>
 </head>
 
 <body>
@@ -39,5 +50,4 @@
   <button id="btn-videos">Videos</button>
   <button id="btn-shorts">Shorts</button>
 </body>
-
 </html>

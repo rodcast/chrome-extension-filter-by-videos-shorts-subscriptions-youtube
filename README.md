@@ -14,5 +14,5 @@ If you want to add a feature on Youtube that will help you filter your Subscript
 
 ## Installation
 
-On Chrome, install via [Chrome Web Store](https://chrome.google.com/webstore/detail/filter-by-videos-or-short/pefcpfobggmkgkdfdlfoclmndjbkhoae/related)
+On Chrome, install via [Chrome Web Store](https://chrome.google.com/webstore/detail/filter-by-videos-or-short/pefcpfobggmkgkdfdlfoclmndjbkhoae)
 
